@@ -20,9 +20,9 @@ Materials and demos will be available in this repository after the workshop.
 
 ## Time and Location
 
-[Serverless Architecture Conference - London 2023](https://serverless-architecture.io/serverless-architecture-design/advanced-serverless-workshop/)
-[Park Plaza Victoria London](https://serverless-architecture.io/london/location-london/)
-April 11, 2024
+[Serverless Architecture Conference - London 2023](https://serverless-architecture.io/serverless-architecture-design/advanced-serverless-workshop/)  
+[Park Plaza Victoria London](https://serverless-architecture.io/london/location-london/)  
+April 11, 2024  
 8:45 AM BST
 
 ## Other Presentations
